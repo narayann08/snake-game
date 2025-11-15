@@ -25,7 +25,7 @@ const rows = Math.floor(board.clientHeight / blockHeight);
 let intervalId = null;
 let timerInveralId = null;
 
-let food = {x: Math.floor(Math.random()*rows), y: Math.floor(Math.random()*cols)};
+let food = {x: Math.floor(Math.random()*rows), y: Math.floor(Math.random()*cols)}; // generate random food
 
 const blocks = [];
 let snake = [{
