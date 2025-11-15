@@ -3,7 +3,7 @@
 <p align="center">
   A classic Snake Game built using <b>HTML, CSS and JavaScript</b>.
   <br>
-  <a href="https://snake-game-narayann08.netlify.app/">▶️ Play Live</a> •
+  <a href="https://snake-game-narayann08.vecel.app/">▶️ Play Live</a> •
   <a href="https://github.com/narayann08/snake-game">💻 Source Code</a>
 </p>
 
